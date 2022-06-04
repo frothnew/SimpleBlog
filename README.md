@@ -5,5 +5,5 @@
 ## Build with vue cli
 
 ``` bash
-now upload the docs only.
+docs only.
 ```
